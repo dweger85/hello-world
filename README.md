@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-Well this ia all new to me.
+Well this is all new to me.
